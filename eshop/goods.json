@@ -1,0 +1,23 @@
+[
+  {
+    "id" : 1,
+    "name":"Велосипед",
+    "cost":9600,
+    "description":"Велосипед дорожный Stels Navigator-325 28-2019",
+    "image": "/images/vel.jpg"    
+  },
+    {
+    "id" : 2,
+    "name":"Самокат",
+    "cost":19100,
+    "description":"Самокат Micro Black",
+    "image": "/images/scoot.jpg"    
+  },
+    {
+    "id" : 3,
+    "name":"Гироскутер",
+    "cost":13570,
+    "description":"Гироскутер MIZAR MZ10FE, 10, многоцветный",
+    "image": "/images/gyr.jpg"    
+  }
+]
